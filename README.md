@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Zakir Soft
+🔭 I’m currently working on Zakir Soft
 - 🌱 I’m currently learning Laravel Rest Apis, Vue.js & Nuxt.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
