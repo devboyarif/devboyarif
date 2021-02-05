@@ -1,7 +1,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><h1 align="center">Hi, I am Arif 👨‍💻</h1>
+<h1 align="center">Hey there, I'm <a href="https://arifulislamarif.xyz">Arif</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 ## 📚 About Me:
 I am a Web Developer & Web Application Developer from Dhaka, Bangladesh. I'm workung on Laravel, Vue.js, Nuxt.js & REST API. I have about 3+ years experiance. I am passionate about technologies and love to learn new things. 
@@ -10,8 +10,6 @@ I am a Web Developer & Web Application Developer from Dhaka, Bangladesh. I'm wor
   - 👨‍💻 I’m currently working on <a href="https://laravel.com/">Laravel</a>, <a href="https://v3.vuejs.org/">Vuejs</a>, <a href="https://nuxtjs.org/">Nuxtjs</a> & REST API
   - 🎯 I'm recently completed my college degree.
   - 📧 You can reach me at: arif14arif15@gmail.com
-
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 ## 💻 My Languages/Tools:
 
