@@ -8,7 +8,7 @@ I am a Web Developer & Web Application Developer from Dhaka, Bangladesh. I work 
 <a target="_black" href="https://github.com/SABERGLOW/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
 
   - 👨‍💻 I'm a Developer at <a href="https://zakirsoft.com/"> Zakir Soft </a>.
-  - 👨‍💻 I’m currently learning <a href="https://laravel.com/">Laravel</a>, <a href="https://v3.vuejs.org/">Vuejs</a> & <a href="https://nuxtjs.org/">Nuxtjs</a>
+  - 👨‍💻 I’m currently learning <a href="https://laravel.com/">Laravel</a>, <a href="https://v3.vuejs.org/">Vuejs</a>, <a href="https://nuxtjs.org/">Nuxtjs</a> & REST API
   - 🎯 I'm recently completed my college degree.
   - 📧 You can reach me at: arif14arif15@gmail.com
 
