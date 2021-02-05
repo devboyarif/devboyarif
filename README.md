@@ -17,7 +17,7 @@ Here are a few things I've picked up along my learning journey.
 * 🗣 Javascript | Jquery
 * 🗣 Vue.js | Nuxt.js
 * 🗣 MySQL 
-* 🌐 HTML | CSS
+* 🗣 HTML | CSS
 * 🗣 Git | Github
 * 🗣 Ubuntu | Docker
 * 🗣 VS Code
@@ -26,7 +26,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href = https://github.com/arifulislamarif><img src='https://img.icons8.com/color/2x/github.png' alt='github' height='40'></a>
 <a href = https://www.linkedin.com/in/ariful-islam-arif-515a4a166//><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
 <a href =https://www.facebook.com/arifulislamarif05/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
 <a href =https://join.skype.com/invite/YVywcVEB1lql/><img src='https://img.icons8.com/color/2x/skype.png' alt='skype' height='40'></a>
