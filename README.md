@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a Web Developer & Web Application Developer from Dhaka, Bangladesh. I work with Laravel, Vue.js, Nuxt.js & REST API.I have about 3+ years experiance. 
+I am a Web Developer & Web Application Developer from Dhaka, Bangladesh. I work with Laravel, Vue.js, Nuxt.js & REST API. I have about 3+ years experiance. 
 
 <p>&nbsp;</p>
 
