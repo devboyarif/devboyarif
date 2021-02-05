@@ -12,7 +12,7 @@ I am a Web Developer & Web Application Developer from Dhaka, Bangladesh. I work 
   - 🎯 I'm recently completed my college degree.
   - 📧 You can reach me at: arif14arif15@gmail.com
 
-<p>&nbsp;</p>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 ## 💻 My Languages/Tools:
 <div>
