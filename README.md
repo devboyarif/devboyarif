@@ -26,6 +26,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href = https://www.linkedin.com/in/ariful-islam-arif-515a4a166//><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href =https://www.facebook.com/arifulislamarif05/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
+<a href = https://www.linkedin.com/in/devboyarif/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href =https://www.facebook.com/devboyarif/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
 <a href =https://join.skype.com/invite/YVywcVEB1lql/><img src='https://img.icons8.com/color/2x/skype.png' alt='skype' height='40'></a>
