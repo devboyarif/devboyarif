@@ -7,7 +7,7 @@
   - 👨‍💻 I'm a Developer at <a href="https://zakirsoft.com/"> Zakir Soft </a>.
   - 👨‍💻 I’m currently working on <a href="https://laravel.com/">Laravel</a>, <a href="https://v3.vuejs.org/">Vuejs</a> & <a href="https://nuxtjs.org/">Nuxtjs</a>
   - 🎯 I have recently completed my college degree.
-  - 📧 You can reach me at: arif14arif15@gmail.com
+  - 📧 You can reach me at: devboyarif@gmail.com
 
 ## 💻 My Languages/Tools:
 
