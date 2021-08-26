@@ -1,33 +1,26 @@
+<h1 align="center">Hi 👋, I'm Arif</h1>
+<h3 align="center">I am a Full Stack Web Developer from Dhaka, Bangladesh. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
-<h1 align="center">Hey there, I'm <a href="https://arifulislamarif.xyz">Arif</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devboyarif" alt="devboyarif" /></a> </p>
 
-## 📚 About Me:
-  - 👨‍💻 I'm a Developer at <a href="https://zakirsoft.com/"> Zakir Soft </a>.
-  - 👨‍💻 I’m currently working on <a href="https://laravel.com/">Laravel</a>, <a href="https://v3.vuejs.org/">Vuejs</a> & <a href="https://nuxtjs.org/">Nuxtjs</a>
-  - 🎯 I have recently completed my college degree.
-  - 📧 You can reach me at: devboyarif@gmail.com
+- 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
 
-## 💻 My Languages/Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/devboyarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://instagram.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devboyarif" height="30" width="40" /></a>
+</p>
 
-Here are a few things I've picked up along my learning journey.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-* 🗣 Laravel | Livewire
-* 🗣 Javascript | Jquery | Typescript
-* 🗣 Vue.js | Nuxt.js
-* 🗣 MySQL 
-* 🗣 HTML | CSS
-* 🗣 Git | Github
-* 🗣 Cloud Server
-* 🗣 Ubuntu | Docker
-* 🗣 VS Code
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devboyarif&show_icons=true&locale=en&layout=compact" alt="devboyarif" /></p>
 
-<p>&nbsp;</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devboyarif&show_icons=true&locale=en" alt="devboyarif" /></p>
 
-## ☎️ Contact Me:
-<p align="center">
-<a href="javascript:void(0)"/><img src='https://img.icons8.com/color/2x/slack.png' alt='linkedin' height='40'></a>
-<a href = https://www.linkedin.com/in/devboyarif/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href =https://www.facebook.com/devboyarif/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href =https://join.skype.com/invite/YVywcVEB1lql/><img src='https://img.icons8.com/color/2x/skype.png' alt='skype' height='40'></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&" alt="devboyarif" /></p>
