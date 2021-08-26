@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devboyarif&show_icons=true&locale=en" alt="devboyarif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&" alt="devboyarif" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devboyarif)](https://github.com/anuraghazra/github-readme-stats)
