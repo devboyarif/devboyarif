@@ -40,7 +40,7 @@
     </td>   
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
@@ -52,7 +52,7 @@
     </td>
      <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="CSS3" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
@@ -92,14 +92,14 @@
      <td align="center" width="96">
         <a href="#suhailkakar-tech">
             <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="Laravel" />
+                alt="livewire" />
         </a>
         <br>Livewire
     </td>
     <td align="center" width="96">
         <a href="#suhailakar-tech">
             <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="TypeScript" />
+                height="48" alt="alpinejs" />
         </a>
         <br>Alpine JS
     </td>   
@@ -107,7 +107,7 @@
    <tr>
       <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="Linux" />
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
@@ -125,9 +125,9 @@
     </td>
       <td align="center"  width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://d33wubrfki0l68.cloudfront.net/1d6248982d56f5b390b078f8ad053c3a6e61bfb2/ef690/img/logo/svg/jamstack_icon_original.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
-      <br>Jamstack
+      <br>VS Code
     </td>
   </tr>
 </table>
