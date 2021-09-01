@@ -40,23 +40,23 @@
     </td>   
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>CSS3
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Digital Ocean
+      <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="CSS3" />
       </a>
-      <br>TypeScript
+      <br>Javascript
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
@@ -67,65 +67,67 @@
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Nuxt JS
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
+    </td>      
   </tr>
   
   <tr>
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
       <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
-      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" />
+     <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>CSS3
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+        <a href="#suhailkakar-tech">
+            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+                alt="Laravel" />
+        </a>
+        <br>Livewire
     </td>
     <td align="center" width="96">
+        <a href="#suhailakar-tech">
+            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+                height="48" alt="TypeScript" />
+        </a>
+        <br>Alpine JS
+    </td>   
+  </tr>
+   <tr>
+      <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="Linux" />
       </a>
       <br>Ubuntu
     </td>
-    <td align="center"  width="96">
+     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://d33wubrfki0l68.cloudfront.net/1d6248982d56f5b390b078f8ad053c3a6e61bfb2/ef690/img/logo/svg/jamstack_icon_original.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
       </a>
-      <br>Jamstack
+      <br>Digital Ocean
     </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
+      <td align="center"  width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://d33wubrfki0l68.cloudfront.net/1d6248982d56f5b390b078f8ad053c3a6e61bfb2/ef690/img/logo/svg/jamstack_icon_original.svg" width="48" height="48" alt="Jamstack" />
       </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
+      <br>Jamstack
     </td>
   </tr>
 </table>
