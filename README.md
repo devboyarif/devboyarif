@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Templatecookie](https://github.com/templatecookie)
 
-- 🌱 I’m currently learning **Cloud Server, Typescript,**
+- 🌱 I’m currently learning **TALL Stack, Filament & TDD**
 
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio)
+- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co)
 
 
 - 📫 How to reach me **devboyarif@gmail.com**
