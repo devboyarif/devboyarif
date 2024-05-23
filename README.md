@@ -7,7 +7,7 @@ thinker, passionate leader, and mentor eager to drive innovation and fuel busine
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
 - 🔭 I’m currently working on [Templatecookie](https://github.com/templatecookie)
-- 🌱 I’m currently learning **TALL Stack, Filament & TDD**
+- 🌱 I’m currently learning **Reactjs, Nextjs**
 - 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co)
 - 💪 My wakatime profile  [https://wakatime.com/@devboyarif](https://wakatime.com/@devboyarif)
 - ⭐ My Leetcode profile  [https://leetcode.com/devboyarif](https://leetcode.com/devboyarif) 
