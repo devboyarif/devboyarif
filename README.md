@@ -136,9 +136,9 @@ thinker, passionate leader, and mentor eager to drive innovation and fuel busine
     </td>
       <td align="center" width="96">
       <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>VuePress
+      <br>AWS
     </td>
   </tr>
 </table>
