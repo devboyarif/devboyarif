@@ -27,7 +27,7 @@ thinker, passionate leader, and mentor eager to drive innovation and fuel busine
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>   
@@ -97,7 +97,7 @@ thinker, passionate leader, and mentor eager to drive innovation and fuel busine
     </td>
     <td align="center" width="96">
         <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+            <img src="https://cdn.worldvectorlogo.com/logos/alpine-13.svg" width="48"
                 height="48" alt="alpinejs" />
         </a>
         <br>Alpine JS
